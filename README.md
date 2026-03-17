@@ -161,6 +161,10 @@ DELETE /posts/<id>
 
 ```
 blog-api/
+├── models
+    ├── post_mode.py    # Post model and database connection
+├── routes
+    ├── post_routes.py  # API routes for posts
 ├── app.py              # main Flask application
 ├── .env                # database credentials (not committed to git)
 ├── .env.example        # template for environment variables
