@@ -95,8 +95,8 @@ POST /posts
     "content": "This is the content of my first blog post.",
     "category": "Technology",
     "tags": ["Tech", "Programming"],
-    "createdAt": "Thu, 12 Mar 2026 23:18:46 GMT",
-    "updatedAt": "Thu, 12 Mar 2026 23:18:46 GMT"
+    "created_at": "Thu, 12 Mar 2026 23:18:46 GMT",
+    "updated_at": "Thu, 12 Mar 2026 23:18:46 GMT"
 }
 ```
 
